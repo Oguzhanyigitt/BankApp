@@ -9,9 +9,9 @@ import java.util.logging.Logger;
 
 
 public class DatabaseUtil {
-    private static final String URL = "jdbc:mysql://localhost:3306/bankDB2_3";
-    private static final String USER = "root";
-    private static final String PASSWORD = "12345";
+    private static final String URL = "jdbc:mysql://localhost:3306/example";
+    private static final String USER = "your_username";
+    private static final String PASSWORD = "your_password";
     private static final Logger LOGGER = Logger.getLogger(DatabaseUtil.class.getName());
 
     static {

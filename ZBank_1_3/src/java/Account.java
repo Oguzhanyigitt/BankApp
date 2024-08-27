@@ -7,8 +7,6 @@ public class Account {
         this.userId=userId;
         this.account_id = account_id;
         this.balance = balance;
-        
-        
     }
    
     

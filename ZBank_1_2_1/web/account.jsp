@@ -20,10 +20,10 @@
 %>
 <html>
 <head>
-    <link rel="shortcut icon" type="image/png" href="https://avatars.mds.yandex.net/i?id=9b727c154ebf81ad18c40bdc4d51d82b1196cfba-5601142-images-thumbs&n=13"/>
+    <link rel="shortcut icon" type="image/png" href="İcon linkini buraya Girin"/>
     <title>Hesap Bilgileri</title>
 <style>
-    body { font-family: Arial, sans-serif; background: url('https://avatars.mds.yandex.net/i?id=d00615946d05cdfd02f0bd01df39cea21042d1ce-5877635-images-thumbs&n=13') center/cover no-repeat #f2f2f2; margin: 0; padding: 20px; }
+    body { font-family: Arial, sans-serif; background: url('Background Linkini buraya girin') center/cover no-repeat #f2f2f2; margin: 0; padding: 20px; }
     .container { max-width: 800px; margin: auto; background: #f2f2f2; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); color: #000; }
     h1 { color: #000; text-align: center; }
     table { width: 100%; border-collapse: collapse; margin: auto; }

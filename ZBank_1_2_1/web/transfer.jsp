@@ -18,7 +18,7 @@
 <html lang="tr">
 <head>
     
-    <link rel="shortcut icon" type="image/png" href="https://avatars.mds.yandex.net/i?id=9b727c154ebf81ad18c40bdc4d51d82b1196cfba-5601142-images-thumbs&n=13"/>
+    <link rel="shortcut icon" type="image/png" href="icon linkini buraya girin"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Transfer İşlemi</title>
@@ -31,7 +31,7 @@
         }
     </script>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f2f2f2; background-image: url('https://avatars.mds.yandex.net/i?id=d00615946d05cdfd02f0bd01df39cea21042d1ce-5877635-images-thumbs&n=13'); background-size: cover; background-repeat: no-repeat; background-position: center; margin: 0; padding: 20px; }
+        body { font-family: Arial, sans-serif; background-color: #f2f2f2; background-image: url('Background linkini buraya girin'); background-size: cover; background-repeat: no-repeat; background-position: center; margin: 0; padding: 20px; }
         .container { max-width: 800px; margin: auto; background: #000; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); color: #fff; }
         h1 { color: #fff; }
         .form-container { background: #333; border-radius: 8px; padding: 20px; margin: 20px 0; }

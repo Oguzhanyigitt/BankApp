@@ -69,14 +69,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="shortcut icon" type="image/png" href="https://avatars.mds.yandex.net/i?id=9b727c154ebf81ad18c40bdc4d51d82b1196cfba-5601142-images-thumbs&n=13"/>
+    <link rel="shortcut icon" type="image/png" href="icon linkini buraya girin"/>
     <meta charset="UTF-8">
     <title>İşlem Geçmişi</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f2f2f2;
-            background-image: url('https://avatars.mds.yandex.net/i?id=d00615946d05cdfd02f0bd01df39cea21042d1ce-5877635-images-thumbs&n=13');
+            background-image: url('Background linkini buraya girin');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;

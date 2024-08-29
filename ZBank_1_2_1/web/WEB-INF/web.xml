@@ -17,24 +17,8 @@
         <servlet-class>RegisterServlet</servlet-class>
     </servlet>
     <servlet>
-        <servlet-name>CreateAccountServlet</servlet-name>
-        <servlet-class>CreateAccountServlet</servlet-class>
-    </servlet>
-    <servlet>
-        <servlet-name>AccountInfoServlet</servlet-name>
-        <servlet-class>AccountInfoServlet</servlet-class>
-    </servlet>
-    <servlet>
-        <servlet-name>ViewAccountServlet</servlet-name>
-        <servlet-class>ViewAccountServlet</servlet-class>
-    </servlet>
-    <servlet>
         <servlet-name>TransactionHistoryServlet</servlet-name>
         <servlet-class>TransactionHistoryServlet</servlet-class>
-    </servlet>
-    <servlet>
-        <servlet-name>CreditCardServlet</servlet-name>
-        <servlet-class>CreditCardServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>LoginServlet</servlet-name>
@@ -53,23 +37,7 @@
         <url-pattern>/RegisterServlet</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
-        <servlet-name>CreateAccountServlet</servlet-name>
-        <url-pattern>/CreateAccountServlet</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>AccountInfoServlet</servlet-name>
-        <url-pattern>/AccountInfoServlet</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>ViewAccountServlet</servlet-name>
-        <url-pattern>/ViewAccountServlet</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
         <servlet-name>TransactionHistoryServlet</servlet-name>
         <url-pattern>/TransactionHistoryServlet</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>CreditCardServlet</servlet-name>
-        <url-pattern>/CreditCardServlet</url-pattern>
     </servlet-mapping>
 </web-app>

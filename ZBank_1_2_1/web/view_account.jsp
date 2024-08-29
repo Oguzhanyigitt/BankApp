@@ -18,12 +18,12 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    <link rel="shortcut icon" type="image/png" href="https://avatars.mds.yandex.net/i?id=9b727c154ebf81ad18c40bdc4d51d82b1196cfba-5601142-images-thumbs&n=13"/>
+    <link rel="shortcut icon" type="image/png" href="icon linkini buraya girin"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hesap Detayları</title>
     <style>
-       body { font-family: Arial, sans-serif; background-color: #000000; background-image: url('https://avatars.mds.yandex.net/i?id=d00615946d05cdfd02f0bd01df39cea21042d1ce-5877635-images-thumbs&n=13'); background-size: cover; background-repeat: no-repeat; background-position: center; margin: 0; padding: 250px; }
+       body { font-family: Arial, sans-serif; background-color: #000000; background-image: url('Background linkini buraya girin'); background-size: cover; background-repeat: no-repeat; background-position: center; margin: 0; padding: 250px; }
         .container { max-width: 800px; margin: auto; background: #110; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); color: #9999ff; }
         h1 { color: #fff; }
         p { font-size: 1.2rem; margin: 0.5rem 0; color:#ddd}
